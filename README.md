@@ -3,16 +3,16 @@
 ---
 
 **Supported Quest Task Types:**
-- `WATCH_VIDEO`  
-- `PLAY_ON_DESKTOP`  
-- `STREAM_ON_DESKTOP`  
-- `PLAY_ACTIVITY`  
-- `WATCH_VIDEO_ON_MOBILE`  
+- **`WATCH_VIDEO`**  
+- **`PLAY_ON_DESKTOP`**  
+- **`STREAM_ON_DESKTOP`**  
+- **`PLAY_ACTIVITY`**  
+- **`WATCH_VIDEO_ON_MOBILE`**  
 
 **Other Features:**
-> - Auto detects active, incomplete quests.
-> - Executes quests sequentially.  
-> - Logs progress in real-time in the console.  
+> - **Auto detects active, incomplete quests.**
+> - **Executes quests sequentially.**  
+> - **Logs progress in real-time in the console.**  
 
 ---
 
