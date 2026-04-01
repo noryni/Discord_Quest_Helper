@@ -55,7 +55,7 @@
 - **5. Save the file and reopen Discord (App).**
 ---
 - **6. Open Developer Tools**
-**Press `Ctrl + Shift + I`**
+**(`Ctrl + Shift + I`**).
 ---
 - **7. Paste the script**
 **Go to the Console tab**
