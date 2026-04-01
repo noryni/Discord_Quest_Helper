@@ -53,7 +53,6 @@
 ```
 ---
 - **5. Save the file and reopen Discord (App).**
-**Press `Ctrl + Shift + I` to open DevTools.**
 ---
 - **6. Open Developer Tools**
 **Press `Ctrl + Shift + I`**
