@@ -58,14 +58,12 @@
 **(`Ctrl + Shift + I`**).
 ---
 - **7. Paste the script**
-**Go to the Console tab**
-**Paste the code from `Source/index.js`**
-- **If paste is blocked:**
-**Type:**
-**`allow pasting`**
-**Paste the script again**
+- **Go to the "Console" tab**
+- **Paste the code from — [`Source/index.js`](http://raw.githubusercontent.com/noryni/Discord_Quest_Helper/refs/heads/main/Source/index.js)**
+- **If paste is blocked type:**
+- **`allow pasting`**
+- **Paste the script again**
 ---
 - **8. Wait**
-**The script will start automatically**
-**Progress will show in the console**
-**Wait until the quest is completed**
+- **The script will start automatically**
+-**Progress will show in the console**
