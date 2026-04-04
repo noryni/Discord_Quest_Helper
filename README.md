@@ -59,7 +59,7 @@
 ---
 - **7. Paste the script**
 - **Go to the "Console" tab**
-- **Paste the code from — [`Source/index.js`](http://github.com/noryni/Discord_Quest_Helper/blob/main/Source/index.js)**
+- **Paste the code from — [`Source/index.js`](http://github.com/noryni/Discord_Quest_Helper/blob/main/Quest_Helper/index.js)**
 - **If paste is blocked type:**
 - **`allow pasting`**
 - **Paste the script again**
